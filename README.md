@@ -1,4 +1,4 @@
-##Columns:
+## Columns:
 
 1. total distance traveled
 2. x
@@ -9,7 +9,7 @@
 
 
 ---
-#b2bElec_1.out
+# b2bElec_1.out
 
 *both primaries in the same file*
 
@@ -44,7 +44,7 @@
 
 ---
 
-#1e2456EventElec_1.out
+# 1e2456EventElec_1.out
 
 ```
 0.01	0.00035962  	-0.00074328	0.00993135	86  	0.01
