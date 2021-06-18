@@ -1,3 +1,5 @@
+*This page contains an example of a 0νββ drift electron production file (`b2bElec_1.out`) and a 1e drift electron production file (`1e2456EventElec_1.out`), outputted following Stage 2 of the simulation procedure, in the b2b scenario.*
+
 ## Columns:
 
 1. total distance traveled
@@ -9,7 +11,7 @@
 
 
 ---
-# b2bElec_1.out
+# `b2bElec_1.out`
 
 *both primaries in the same file*
 
@@ -44,7 +46,7 @@
 
 ---
 
-# 1e2456EventElec_1.out
+# `1e2456EventElec_1.out`
 
 ```
 0.01	0.00035962  	-0.00074328	0.00993135	86  	0.01
